@@ -47,6 +47,12 @@ body {
     }
 }
 
+#quotes {
+    i {
+        opacity: 0.3;
+    }
+}
+
 #pngIcon {
     background-size: 100px;
     width: 150px;
@@ -57,6 +63,12 @@ body {
     background-size: 515px;
     width: 515x;
     height: 360px;
+}
+
+#socialImg {
+    background-size: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 @media(max-width: 768px) {
