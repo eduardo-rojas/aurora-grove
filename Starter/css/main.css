@@ -7634,6 +7634,11 @@ body {
   width: 150px;
   height: 150px; }
 
+#cardImg {
+  background-size: 515px;
+  width: 515x;
+  height: 360px; }
+
 @media (max-width: 768px) {
   .navbar {
     background: #1f1f1f; }
